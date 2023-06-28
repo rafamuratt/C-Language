@@ -1,5 +1,5 @@
-This is an old school Windows console app:
-You can:
+This is an old school Windows console app.
+Here you can:
 
 - to calculate the cut frequency of a RC Filter (low pass) or
 - to calculate the time constant (Tau) to charge or discharge a capacitor of this low pass RC filter
