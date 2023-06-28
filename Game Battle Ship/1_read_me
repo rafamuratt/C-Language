@@ -5,6 +5,10 @@ At first you need to:
   -start a new game "N"
   -Finally need to shot your enemies typing the coordinates x, y (or y, x -> doesn't matter the order);
 
+Game over after 5 shooting errors
+skills are changed (easy to medium, medium to hard) each 3 cleared levels
+The game finish after 10 cleared levels
+
 - Yes, I know that a lot is needed to improve, like enemies response, etc. 
 - This code is finished because the current status is ok to play, 
   therefore I need to proceed with the studies in order to complete the course!
