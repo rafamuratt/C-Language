@@ -1,0 +1,10 @@
+This is an old school Windows console basic game:
+At first you need to:
+  -choice your player skills (easy, medium, hard)
+  -Then choice a battle field with "S" or
+  -start a new game "N"
+  -Finally need to shot your enemies typing the coordinates x, y (or y, x -> doesn't matter the order);
+
+- Yes, I know that a lot is needed to improve, like enemies response, etc. 
+- This code is finished because the current status is ok to play, 
+  therefore I need to proceed with the studies in order to complete the course!
