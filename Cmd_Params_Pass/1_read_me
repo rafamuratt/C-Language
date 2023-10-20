@@ -1,0 +1,13 @@
+This is an old school Windows console app.
+Here you can:
+
+- to calculate a resistor by entering the voltage and current.
+
+/* This program runs only using a console */
+
+/* 1) Open your preferred console */
+/* 2) Go to the path where the .exe file is located (Tip: place your file at system root (like C:\), it's location is easier) */
+/* 3) Write the file name and the voltage/ current to calculate the resistor */
+/* NOTE: Please use the following sintaxe:  file_name voltage1 current1 voltage2 current2 voltageN currentN */
+
+- ENJOY ;)
