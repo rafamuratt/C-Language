@@ -1,0 +1,14 @@
+Here you have a base code to encrypt and decrypt files in a way the algorithm only displace three character position of original data.
+You can use any file name (up to 50 char) and any file extension (up to 6 char, excluding the dot '.').
+The best is to run the encrypt/ decrypt .exe files at same path/ folder so the new files will be right there.
+
+You can also run the the encrypt/ decrypt .exe files at different path however please remenber to name and address them (along with their extension) correctly
+
+Here is an example of files names generated:
+
+ - Original file creation (to be encrypted): C:\data.txt
+   - The encrypted file will be:             C:\data_encrypted.txt
+
+ - To decrypt you need to type:              C:\data_encrypted.txt
+   - And the decrypted file will be:         C:\data_decrypted.txt
+
