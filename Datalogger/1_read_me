@@ -1,0 +1,5 @@
+This is an old school Windows console app.
+Here you can simulate a datalogger. Depending of version it can:
+
+- write/ read data in ASCII from and to external file "celsius.txt"
+- write/ read data in Binary from and to external file "celsius.dat"
