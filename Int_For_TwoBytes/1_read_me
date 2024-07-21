@@ -1,0 +1,3 @@
+This is a simple Windows console app, used to study about "unions" in language C.
+Here you can convert an integer into 2 bytes binary data, recorded at file result.dat.
+
