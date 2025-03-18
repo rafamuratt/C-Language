@@ -1,0 +1,11 @@
+Here are two old school Windows console app.
+You can simulate a simple protocol creation (16 bits) for a temperature sensor
+
+- Temp_Read: you enter 16bits data in hexadecimal, the sw returns the converted temperature in +-°C or -+ °F along with its error status
+  It also returns the protocol itself in binary data.
+  Note: the sensor ID is always 'A', the remaining data can be any hex number
+
+
+- Temp_Simul: you enter the temperature in +-°C or -+ °F along with its error status, the sw returns the 16 bits protocol in hexadecimal 
+  It also returns the protocol itself in binary data.
+  Note: the sensor ID is always 'A'
