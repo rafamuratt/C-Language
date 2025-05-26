@@ -1,3 +1,3 @@
 Here is a simple simulator of dinamic memory population using malloc and realloc resources 
 	
-Note: The memory size limit is not implemented, caution is required if this code is implemented on automatic data acquisition, in special on embedded systems !!!
+Note: The memory size limit is not implemented, caution is required if this code is used on automatic data acquisition, in special on embedded systems !!!
